@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lecode/lecode.iml" filepath="$PROJECT_DIR$/lecode/lecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/lecode.iml" filepath="$PROJECT_DIR$/practice/lecode.iml" />
     </modules>
   </component>
 </project>
