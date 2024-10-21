@@ -1,8 +1,11 @@
-package tree;
+package tree.traversal.middle;
 
 import java.util.Stack;
 
-public class TreePrint {
+/**
+ * 栈的方式 中序遍历
+ */
+public class TreeStackPrint {
 
     static class Node{
         // 节点的值
